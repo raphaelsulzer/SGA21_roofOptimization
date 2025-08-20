@@ -1,0 +1,32 @@
+{
+    // WARNING: The args overwrite the hydra config from ../config/config.yaml.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "rescale_images",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/python/rescale_images.py",
+            "console": "integratedTerminal",
+            "args": [],
+            "justMyCode": false,
+            "env": {
+                "CUDA_LAUNCH_BLOCKING": "1",
+                "TORCH_USE_CUDA_DSA": "1",
+            }
+        },
+        {
+            "name": "process",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/process.py",
+            "console": "integratedTerminal",
+            "args": [],
+            "justMyCode": false,
+            "env": {
+                "CUDA_LAUNCH_BLOCKING": "1",
+                "TORCH_USE_CUDA_DSA": "1",
+            }
+        }
+    ]
+}
