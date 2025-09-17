@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from python.matplotlib_vis import CocoVisualizer
+from src.matplotlib_vis import CocoVisualizer
 
 
 if __name__ == "__main__":
@@ -18,10 +18,10 @@ if __name__ == "__main__":
     # exp = "gaussnoise"
     # preds[exp] = f"/home/rsulzer/data/RoofGraphDataset_output/pix2poly/224/{exp}/predictions_rgd_{split}/best_val_iou.json"
     
-    exp = "pred_valence_false"
+    exp = "sort_verts_by_coords"
     preds[exp] = f"/home/rsulzer/data/RoofGraphDataset_output/pix2poly/224/{exp}/predictions_rgd_{split}/best_val_iou.json"
     
-    exp = "pred_valence_true"
+    exp = "no_sort_verts"
     preds[exp] = f"/home/rsulzer/data/RoofGraphDataset_output/pix2poly/224/{exp}/predictions_rgd_{split}/best_val_iou.json"
 
     
