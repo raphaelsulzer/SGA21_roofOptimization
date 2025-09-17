@@ -25,7 +25,7 @@ class CocoVisualizer:
         if pred_files:
             for k,v in pred_files.items():
                 self.coco_anns[k] = self.coco_anns["gt"].loadRes(v)
-                self.fig, self.ax = plt.subplots(1, 2, figsize=(20, 20))
+            self.fig, self.ax = plt.subplots(1, 2, figsize=(20, 20))
         else:
             self.fig, self.ax = plt.subplots(1, 1, figsize=(10, 20))
             self.ax = [self.ax]
@@ -33,6 +33,7 @@ class CocoVisualizer:
         
         self.fig.canvas.mpl_connect('key_press_event', self.update_visualization)
         self.img_id = 0
+        self.prediction_id = 0
         
         self.colormap = list(plt.get_cmap('tab10').colors)  # Use a standard matplotlib colormap
         # remove gray
@@ -90,27 +91,74 @@ class CocoVisualizer:
     def update_visualization(self, event):
         if event.key == 'right':
             self.img_id += 1
+            self.plot(self.img_id)
+            plt.draw()
         elif event.key == 'left' and self.img_id > 0:
             self.img_id -= 1
+            self.plot(self.img_id)
+            plt.draw()
         elif event.key == 'p':
             self.save_screenshot()
+            return
+        elif event.key == 'up':
+            self.prediction_id += 1
+            self.plot_pred(self.img_id, self.prediction_id)
+            plt.draw()
+            return
+        elif event.key == 'down':
+            self.prediction_id -= 1
+            self.plot_pred(self.img_id, self.prediction_id)
+            plt.draw()
             return
         else:
             return  # Do nothing if left key is pressed and img_id is 0
 
-        self.plot(self.img_id)
-        plt.draw()
 
 
     def plot(self, img_id):
         
-        for ax in self.ax:
-            ax.clear()
-            ax.axis('off')
+        self.plot_gt(img_id)
+        self.plot_pred(img_id)
 
-        img_id = self.coco_anns["gt"].getImgIds()[img_id]
+    def plot_pred(self, img_id, prediction_id=0):
         
-        filename = self.coco_anns["gt"].imgs[img_id]['file_name']
+        # Get the first non-"gt" value by index
+        pred_keys = list(self.coco_anns.keys() - {"gt"})
+        prediction_id = prediction_id % len(pred_keys)  # Wrap around
+        key = pred_keys[prediction_id]  # First prediction key
+
+        self.ax[1].clear()
+        self.ax[1].axis('off')
+
+        img_id = self.coco_anns[key].getImgIds()[img_id]
+        
+        filename = self.coco_anns[key].imgs[img_id]['file_name']
+        img_file = os.path.join(self.path, filename)
+        if not os.path.isfile(img_file):
+            raise FileNotFoundError(f"Image file {img_file} not found")
+        
+        img = io.imread(img_file)
+
+        self.plot_image(img, self.ax[1])
+        self.ax[1].set_title(f"Prediction {filename}({img_id})", fontsize=20)
+
+        polygons = self.get_polygons_from_coco(self.coco_anns[key], img_id)
+
+        poly = self.plot_polygons(polygons, self.ax[1])
+        
+        self.ax[1].legend([poly], [key], loc='upper right', fontsize=16)
+        
+
+    def plot_gt(self, img_id):
+        
+        key = "gt"
+        
+        self.ax[0].clear()
+        self.ax[0].axis('off')
+
+        img_id = self.coco_anns[key].getImgIds()[img_id]
+        
+        filename = self.coco_anns[key].imgs[img_id]['file_name']
         img_file = os.path.join(self.path, filename)
         if not os.path.isfile(img_file):
             raise FileNotFoundError(f"Image file {img_file} not found")
@@ -118,32 +166,14 @@ class CocoVisualizer:
         img = io.imread(img_file)
         self.plot_image(img, self.ax[0])
         self.ax[0].set_title(f"Ground truth {filename}({img_id})", fontsize=20)
-        if len(self.ax) > 1:
-            self.plot_image(img, self.ax[1])
-            self.ax[1].set_title(f"Prediction {filename}({img_id})", fontsize=20)
 
+        polygons = self.get_polygons_from_coco(self.coco_anns[key], img_id)
+
+        poly = self.plot_polygons(polygons, self.ax[0])
         
-        colormap = plt.get_cmap('tab10')
-        colors = [colormap(i % colormap.N) for i in range(len(self.coco_anns) - 1)]
-        i = 0
-        legend = {}
-        for k,v in self.coco_anns.items():
-            
-            polygons = self.get_polygons_from_coco(v, img_id)
+        self.ax[0].legend([poly], [key], loc='upper right', fontsize=16)
 
-            if k == "gt":
-                linecolor = 'green'
-                poly = self.plot_polygons(polygons, self.ax[0], linecolor=linecolor)
-                
-                self.ax[0].legend([poly], k, loc='upper right', fontsize=16)
 
-            else:
-                poly = self.plot_polygons(polygons, self.ax[1], linecolor=colors[i], pointcolor=colors[i])
-                legend[k] = poly
-
-                i+=1
-            
-        self.ax[1].legend(legend.values(), legend.keys(), loc='upper right', fontsize=16)
 
     def save_screenshot(self):
         if self.img_out:

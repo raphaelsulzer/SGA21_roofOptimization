@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rg_dataset"
+version = "0.1.0"
+description = "Roof Graph Dataset"
+authors = [
+    { name = "Raphael Sulzer", email = "raphael.sulzer.1@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "colorlog",
+    "pycocotools",
+    "tqdm",
+    "rasterio",
+    "networkx"
+]
+
+
+[tool.setuptools]
+packages = ["rg_dataset"]
+
