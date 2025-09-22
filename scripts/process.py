@@ -1,4 +1,4 @@
-from python.annotator import Annotator
+from rg_dataset.annotator import Annotator
 
 
 if __name__ == "__main__":
@@ -11,6 +11,7 @@ if __name__ == "__main__":
     
     for split in splits:
 
-        aa.convert_to_coco(split=split)
+        # aa.convert_to_coco(split=split)
+        aa.convert_to_graph(split=split)
 
     aa.upload(copy_data=False)

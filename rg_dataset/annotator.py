@@ -47,6 +47,82 @@ class Annotator:
         y = np.array(poly[1::2])
         return 0.5 * np.abs(np.dot(x, np.roll(y, 1)) - np.dot(y, np.roll(x, 1)))
 
+
+
+    def convert_to_graph(self, split):
+        """
+        Converts a single image + vert + face into a graph representation
+        """
+                
+        image_path = self.outpath / "data" / "images" / split
+        images = os.listdir(image_path)
+        poly_id = 0
+        
+        ann_dict = {}
+        
+        for img_id, img_file in enumerate(images):
+        
+            im = Image.open(image_path / img_file)
+            width, height = im.size
+            
+            file_id = img_file.split('.')[0]  # Use filename without extension as ID
+
+            this_sample = {
+                'file_id': file_id
+            }
+            
+            this_sample["image"] = {
+                'path': os.path.join("data", "images", split, img_file),
+                'width': width,
+                'height': height
+            }
+
+            vert_file = self.outpath / "data" / "verts" / split / img_file.replace(".jpg", ".verts")
+            face_file = self.outpath / "data" / "faces" / split / img_file.replace(".jpg", ".faces")
+
+            if not vert_file.exists() or not face_file.exists():
+                print(f"Missing .vert or .faces file for {img_file}, skipping.")
+                continue
+
+            verts = self._load_vertices(vert_file)
+            faces = self._load_faces(face_file)
+
+            for face in faces:
+                poly = []
+                for idx in face:
+                    x, y = verts[idx]
+                    poly.extend([x, y])
+                poly.extend([poly[0],poly[1]])
+                
+                
+                xs = poly[0::2]
+                ys = poly[1::2]
+                x_min, x_max = min(xs), max(xs)
+                y_min, y_max = min(ys), max(ys)
+                bbox = [x_min, y_min, x_max - x_min, y_max - y_min]
+                area = self._polygon_area(poly)
+
+                ann_dict["annotations"].append({
+                    'id': poly_id,
+                    'image_id': img_id,
+                    'segmentation': [poly],
+                    'area': area,
+                    'bbox': bbox,
+                    'category_id': 100,
+                    'iscrowd': 0,
+                })
+                poly_id += 1
+
+        out_file = self.outpath / "annotations" / "polygons" / f"annotations_{split}.json"
+        out_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        with open(out_file, "w") as f:
+            json.dump(ann_dict, f, indent=2)
+
+        print(f"Saved COCO annotations to {out_file}")
+
+
+
     def convert_to_coco(self, split):
         """
         Converts a single image + vert + face into a COCO JSON file

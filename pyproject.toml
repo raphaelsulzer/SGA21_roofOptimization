@@ -16,7 +16,8 @@ dependencies = [
     "pycocotools",
     "tqdm",
     "rasterio",
-    "networkx"
+    "networkx",
+    "pillow"
 ]
 
 

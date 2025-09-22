@@ -42,7 +42,7 @@ class CocoVisualizer:
         self.plot_bbox = plot_bbox
         
 
-    def plot_polygons(self, polygons, axis, pointcolor='yellow', linecolor='red', linestyle='-', linewidth=5, markersize=20, alpha=0.6, outfile=None):
+    def plot_polygons(self, polygons, axis, pointcolor='magenta', linecolor='turquoise', linestyle='-', linewidth=5, markersize=20, alpha=0.6, outfile=None):
 
 
         for poly in polygons:
@@ -114,11 +114,10 @@ class CocoVisualizer:
             return  # Do nothing if left key is pressed and img_id is 0
 
 
-
     def plot(self, img_id):
         
         self.plot_gt(img_id)
-        self.plot_pred(img_id)
+        self.plot_pred(img_id, self.prediction_id)
 
     def plot_pred(self, img_id, prediction_id=0):
         
