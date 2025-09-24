@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
-from rg_dataset.matplotlib_vis import CocoVisualizer
+from rg_dataset.coco_vis import CocoVisualizer
+from rg_dataset.graph_vis import GraphVisualizer
 
 
 if __name__ == "__main__":

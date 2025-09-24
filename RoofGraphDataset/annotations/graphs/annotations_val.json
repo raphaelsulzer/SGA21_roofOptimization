@@ -1,0 +1,6190 @@
+{
+  "0": {
+    "file_id": "CG10_500_042073_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/CG10_500_042073_0014.npz"
+    }
+  },
+  "1": {
+    "file_id": "CG10_500_043074_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_043074_0019.npz"
+    }
+  },
+  "2": {
+    "file_id": "BK39_500_017032_0012",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017032_0012.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_017032_0012.npz"
+    }
+  },
+  "3": {
+    "file_id": "CG10_500_045067_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045067_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_045067_0033.npz"
+    }
+  },
+  "4": {
+    "file_id": "CG10_500_044070_0022",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044070_0022.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_044070_0022.npz"
+    }
+  },
+  "5": {
+    "file_id": "CG10_500_042060_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042060_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 41,
+      "graph_path": "data/graphs/val/CG10_500_042060_0020.npz"
+    }
+  },
+  "6": {
+    "file_id": "CG10_500_045068_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045068_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_045068_0028.npz"
+    }
+  },
+  "7": {
+    "file_id": "BK39_500_017030_0023",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017030_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/BK39_500_017030_0023.npz"
+    }
+  },
+  "8": {
+    "file_id": "CG10_500_043071_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043071_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043071_0011.npz"
+    }
+  },
+  "9": {
+    "file_id": "CG10_500_035064_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035064_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_035064_0041.npz"
+    }
+  },
+  "10": {
+    "file_id": "BK39_500_013027_0042",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013027_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/BK39_500_013027_0042.npz"
+    }
+  },
+  "11": {
+    "file_id": "CG10_500_048072_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048072_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048072_0021.npz"
+    }
+  },
+  "12": {
+    "file_id": "BK39_500_015030_0068",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015030_0068.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 43,
+      "graph_path": "data/graphs/val/BK39_500_015030_0068.npz"
+    }
+  },
+  "13": {
+    "file_id": "CG10_500_043070_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043070_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_043070_0032.npz"
+    }
+  },
+  "14": {
+    "file_id": "CG10_500_035061_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035061_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_035061_0008.npz"
+    }
+  },
+  "15": {
+    "file_id": "CG10_500_043069_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043069_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043069_0014.npz"
+    }
+  },
+  "16": {
+    "file_id": "CG10_500_040068_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040068_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 19,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_040068_0002.npz"
+    }
+  },
+  "17": {
+    "file_id": "CG10_500_045070_0018",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045070_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_045070_0018.npz"
+    }
+  },
+  "18": {
+    "file_id": "BK39_500_015026_0024",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015026_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_015026_0024.npz"
+    }
+  },
+  "19": {
+    "file_id": "CG10_500_040069_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040069_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_040069_0037.npz"
+    }
+  },
+  "20": {
+    "file_id": "CG10_500_041071_0027",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041071_0027.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_041071_0027.npz"
+    }
+  },
+  "21": {
+    "file_id": "CG10_500_042069_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042069_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042069_0036.npz"
+    }
+  },
+  "22": {
+    "file_id": "CG10_500_041072_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041072_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041072_0014.npz"
+    }
+  },
+  "23": {
+    "file_id": "CG10_500_049074_0063",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049074_0063.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/CG10_500_049074_0063.npz"
+    }
+  },
+  "24": {
+    "file_id": "CG10_500_048070_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048070_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048070_0011.npz"
+    }
+  },
+  "25": {
+    "file_id": "CG10_500_037059_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_037059_0005.npz"
+    }
+  },
+  "26": {
+    "file_id": "CG10_500_041067_0034",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_041067_0034.npz"
+    }
+  },
+  "27": {
+    "file_id": "BK39_500_016029_0020",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016029_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/BK39_500_016029_0020.npz"
+    }
+  },
+  "28": {
+    "file_id": "CG10_500_040069_0058",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040069_0058.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_040069_0058.npz"
+    }
+  },
+  "29": {
+    "file_id": "CG10_500_036064_0045",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036064_0045.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 41,
+      "graph_path": "data/graphs/val/CG10_500_036064_0045.npz"
+    }
+  },
+  "30": {
+    "file_id": "CG10_500_049064_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049064_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_049064_0042.npz"
+    }
+  },
+  "31": {
+    "file_id": "BK39_500_017028_0089",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017028_0089.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/BK39_500_017028_0089.npz"
+    }
+  },
+  "32": {
+    "file_id": "BK39_500_014030_0062",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014030_0062.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_014030_0062.npz"
+    }
+  },
+  "33": {
+    "file_id": "CG10_500_049066_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049066_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_049066_0001.npz"
+    }
+  },
+  "34": {
+    "file_id": "BK39_500_016032_0039",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016032_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_016032_0039.npz"
+    }
+  },
+  "35": {
+    "file_id": "CG10_500_035063_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035063_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_035063_0042.npz"
+    }
+  },
+  "36": {
+    "file_id": "CG10_500_045071_0018",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045071_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_045071_0018.npz"
+    }
+  },
+  "37": {
+    "file_id": "CG10_500_047071_0026",
+    "image": {
+      "image_path": "data/images/val/CG10_500_047071_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_047071_0026.npz"
+    }
+  },
+  "38": {
+    "file_id": "CG10_500_042070_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042070_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 23,
+      "num_edges": 46,
+      "graph_path": "data/graphs/val/CG10_500_042070_0016.npz"
+    }
+  },
+  "39": {
+    "file_id": "BK39_500_016026_0067",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016026_0067.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_016026_0067.npz"
+    }
+  },
+  "40": {
+    "file_id": "CG10_500_044068_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_044068_0041.npz"
+    }
+  },
+  "41": {
+    "file_id": "BK39_500_018027_0071",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0071.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_018027_0071.npz"
+    }
+  },
+  "42": {
+    "file_id": "CG10_500_042072_0018",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042072_0018.npz"
+    }
+  },
+  "43": {
+    "file_id": "CG10_500_033061_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033061_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_033061_0009.npz"
+    }
+  },
+  "44": {
+    "file_id": "BK39_500_014033_0054",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014033_0054.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/BK39_500_014033_0054.npz"
+    }
+  },
+  "45": {
+    "file_id": "CG10_500_041059_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041059_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_041059_0002.npz"
+    }
+  },
+  "46": {
+    "file_id": "CG10_500_036060_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036060_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_036060_0019.npz"
+    }
+  },
+  "47": {
+    "file_id": "CG10_500_036064_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036064_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_036064_0021.npz"
+    }
+  },
+  "48": {
+    "file_id": "CG10_500_033059_0027",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033059_0027.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_033059_0027.npz"
+    }
+  },
+  "49": {
+    "file_id": "BK39_500_013031_0009",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013031_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/BK39_500_013031_0009.npz"
+    }
+  },
+  "50": {
+    "file_id": "CG10_500_037056_0031",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037056_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/CG10_500_037056_0031.npz"
+    }
+  },
+  "51": {
+    "file_id": "CG10_500_041067_0049",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/CG10_500_041067_0049.npz"
+    }
+  },
+  "52": {
+    "file_id": "CG10_500_042072_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 7,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_042072_0028.npz"
+    }
+  },
+  "53": {
+    "file_id": "CG10_500_039070_0045",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039070_0045.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_039070_0045.npz"
+    }
+  },
+  "54": {
+    "file_id": "BJ39_500_099051_0026",
+    "image": {
+      "image_path": "data/images/val/BJ39_500_099051_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/BJ39_500_099051_0026.npz"
+    }
+  },
+  "55": {
+    "file_id": "BK39_500_017026_0067",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017026_0067.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_017026_0067.npz"
+    }
+  },
+  "56": {
+    "file_id": "BK39_500_014034_0018",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014034_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/BK39_500_014034_0018.npz"
+    }
+  },
+  "57": {
+    "file_id": "CG10_500_042071_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042071_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_042071_0021.npz"
+    }
+  },
+  "58": {
+    "file_id": "BK39_500_017029_0062",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017029_0062.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 16,
+      "graph_path": "data/graphs/val/BK39_500_017029_0062.npz"
+    }
+  },
+  "59": {
+    "file_id": "CG10_500_034060_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_034060_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/CG10_500_034060_0015.npz"
+    }
+  },
+  "60": {
+    "file_id": "BK39_500_017026_0082",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017026_0082.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_017026_0082.npz"
+    }
+  },
+  "61": {
+    "file_id": "BK39_500_015026_0035",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015026_0035.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_015026_0035.npz"
+    }
+  },
+  "62": {
+    "file_id": "CG10_500_045073_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045073_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_045073_0040.npz"
+    }
+  },
+  "63": {
+    "file_id": "CG10_500_049063_0012",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049063_0012.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/CG10_500_049063_0012.npz"
+    }
+  },
+  "64": {
+    "file_id": "BK39_500_018029_0021",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018029_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/BK39_500_018029_0021.npz"
+    }
+  },
+  "65": {
+    "file_id": "BK39_500_015032_0062",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015032_0062.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_015032_0062.npz"
+    }
+  },
+  "66": {
+    "file_id": "BK39_500_014030_0082",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014030_0082.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/BK39_500_014030_0082.npz"
+    }
+  },
+  "67": {
+    "file_id": "CG10_500_045068_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045068_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 31,
+      "graph_path": "data/graphs/val/CG10_500_045068_0014.npz"
+    }
+  },
+  "68": {
+    "file_id": "CG10_500_040066_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040066_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_040066_0028.npz"
+    }
+  },
+  "69": {
+    "file_id": "CG10_500_037057_0062",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037057_0062.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/CG10_500_037057_0062.npz"
+    }
+  },
+  "70": {
+    "file_id": "CG10_500_040070_0061",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040070_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_040070_0061.npz"
+    }
+  },
+  "71": {
+    "file_id": "CG10_500_040072_0050",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040072_0050.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_040072_0050.npz"
+    }
+  },
+  "72": {
+    "file_id": "CG10_500_043074_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_043074_0042.npz"
+    }
+  },
+  "73": {
+    "file_id": "CG10_500_042065_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042065_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_042065_0009.npz"
+    }
+  },
+  "74": {
+    "file_id": "CG10_500_033058_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033058_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/CG10_500_033058_0016.npz"
+    }
+  },
+  "75": {
+    "file_id": "CG10_500_040059_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040059_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/CG10_500_040059_0005.npz"
+    }
+  },
+  "76": {
+    "file_id": "CG10_500_042072_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 8,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_042072_0008.npz"
+    }
+  },
+  "77": {
+    "file_id": "BK39_500_016027_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016027_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_016027_0061.npz"
+    }
+  },
+  "78": {
+    "file_id": "CG10_500_048066_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048066_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_048066_0040.npz"
+    }
+  },
+  "79": {
+    "file_id": "BK39_500_015027_0049",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015027_0049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_015027_0049.npz"
+    }
+  },
+  "80": {
+    "file_id": "CG10_500_044073_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044073_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_044073_0007.npz"
+    }
+  },
+  "81": {
+    "file_id": "CG10_500_042072_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042072_0032.npz"
+    }
+  },
+  "82": {
+    "file_id": "BK39_500_017025_0018",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017025_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 29,
+      "num_edges": 60,
+      "graph_path": "data/graphs/val/BK39_500_017025_0018.npz"
+    }
+  },
+  "83": {
+    "file_id": "BK39_500_017026_0007",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017026_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_017026_0007.npz"
+    }
+  },
+  "84": {
+    "file_id": "BK39_500_014029_0019",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014029_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/BK39_500_014029_0019.npz"
+    }
+  },
+  "85": {
+    "file_id": "BK39_500_014034_0011",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014034_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/BK39_500_014034_0011.npz"
+    }
+  },
+  "86": {
+    "file_id": "CG10_500_041071_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041071_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_041071_0015.npz"
+    }
+  },
+  "87": {
+    "file_id": "CG10_500_039069_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039069_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 19,
+      "num_edges": 31,
+      "graph_path": "data/graphs/val/CG10_500_039069_0005.npz"
+    }
+  },
+  "88": {
+    "file_id": "BK39_500_014032_0030",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014032_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_014032_0030.npz"
+    }
+  },
+  "89": {
+    "file_id": "BK39_500_016026_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016026_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_016026_0061.npz"
+    }
+  },
+  "90": {
+    "file_id": "CG10_500_041069_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041069_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_041069_0013.npz"
+    }
+  },
+  "91": {
+    "file_id": "CG10_500_035061_0026",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035061_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_035061_0026.npz"
+    }
+  },
+  "92": {
+    "file_id": "BK39_500_014028_0054",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014028_0054.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_014028_0054.npz"
+    }
+  },
+  "93": {
+    "file_id": "BK39_500_017032_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017032_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/BK39_500_017032_0061.npz"
+    }
+  },
+  "94": {
+    "file_id": "CG10_500_038059_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_038059_0041.npz"
+    }
+  },
+  "95": {
+    "file_id": "CG10_500_040070_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040070_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_040070_0009.npz"
+    }
+  },
+  "96": {
+    "file_id": "CG10_500_041069_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041069_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041069_0019.npz"
+    }
+  },
+  "97": {
+    "file_id": "CG10_500_041067_0039",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_041067_0039.npz"
+    }
+  },
+  "98": {
+    "file_id": "CG10_500_036061_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036061_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_036061_0005.npz"
+    }
+  },
+  "99": {
+    "file_id": "BK39_500_012030_0055",
+    "image": {
+      "image_path": "data/images/val/BK39_500_012030_0055.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_012030_0055.npz"
+    }
+  },
+  "100": {
+    "file_id": "BK39_500_015033_0016",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015033_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/BK39_500_015033_0016.npz"
+    }
+  },
+  "101": {
+    "file_id": "CG10_500_043067_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043067_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 10,
+      "graph_path": "data/graphs/val/CG10_500_043067_0028.npz"
+    }
+  },
+  "102": {
+    "file_id": "CG10_500_043071_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043071_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_043071_0002.npz"
+    }
+  },
+  "103": {
+    "file_id": "CG10_500_037057_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037057_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_037057_0004.npz"
+    }
+  },
+  "104": {
+    "file_id": "CG10_500_045073_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045073_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/CG10_500_045073_0032.npz"
+    }
+  },
+  "105": {
+    "file_id": "BK39_500_014029_0057",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014029_0057.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 43,
+      "graph_path": "data/graphs/val/BK39_500_014029_0057.npz"
+    }
+  },
+  "106": {
+    "file_id": "BK39_500_014027_0076",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014027_0076.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_014027_0076.npz"
+    }
+  },
+  "107": {
+    "file_id": "CG10_500_036058_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036058_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_036058_0005.npz"
+    }
+  },
+  "108": {
+    "file_id": "BK39_500_016029_0034",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016029_0034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_016029_0034.npz"
+    }
+  },
+  "109": {
+    "file_id": "CG10_500_043074_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/CG10_500_043074_0007.npz"
+    }
+  },
+  "110": {
+    "file_id": "BK39_500_012031_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_012031_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_012031_0061.npz"
+    }
+  },
+  "111": {
+    "file_id": "CG10_500_037058_0034",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037058_0034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_037058_0034.npz"
+    }
+  },
+  "112": {
+    "file_id": "CG10_500_045069_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045069_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_045069_0002.npz"
+    }
+  },
+  "113": {
+    "file_id": "CG10_500_038071_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038071_0004.npz"
+    }
+  },
+  "114": {
+    "file_id": "CG10_500_033058_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033058_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_033058_0029.npz"
+    }
+  },
+  "115": {
+    "file_id": "CG10_500_037057_0043",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037057_0043.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_037057_0043.npz"
+    }
+  },
+  "116": {
+    "file_id": "BK39_500_018027_0016",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/BK39_500_018027_0016.npz"
+    }
+  },
+  "117": {
+    "file_id": "BK39_500_015032_0071",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015032_0071.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_015032_0071.npz"
+    }
+  },
+  "118": {
+    "file_id": "CG10_500_036060_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036060_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_036060_0020.npz"
+    }
+  },
+  "119": {
+    "file_id": "CG10_500_042065_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042065_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 31,
+      "graph_path": "data/graphs/val/CG10_500_042065_0037.npz"
+    }
+  },
+  "120": {
+    "file_id": "CG10_500_036058_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036058_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_036058_0028.npz"
+    }
+  },
+  "121": {
+    "file_id": "CG10_500_041070_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041070_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 16,
+      "graph_path": "data/graphs/val/CG10_500_041070_0006.npz"
+    }
+  },
+  "122": {
+    "file_id": "BK39_500_018031_0002",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018031_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/BK39_500_018031_0002.npz"
+    }
+  },
+  "123": {
+    "file_id": "CG10_500_049063_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049063_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_049063_0005.npz"
+    }
+  },
+  "124": {
+    "file_id": "BK39_500_018024_0023",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018024_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/BK39_500_018024_0023.npz"
+    }
+  },
+  "125": {
+    "file_id": "CG10_500_042069_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042069_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_042069_0006.npz"
+    }
+  },
+  "126": {
+    "file_id": "BK39_500_016027_0069",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016027_0069.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_016027_0069.npz"
+    }
+  },
+  "127": {
+    "file_id": "CG10_500_049063_0067",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049063_0067.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_049063_0067.npz"
+    }
+  },
+  "128": {
+    "file_id": "BK39_500_018026_0055",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018026_0055.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/BK39_500_018026_0055.npz"
+    }
+  },
+  "129": {
+    "file_id": "BK39_500_016027_0087",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016027_0087.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/BK39_500_016027_0087.npz"
+    }
+  },
+  "130": {
+    "file_id": "CG10_500_033059_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033059_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/CG10_500_033059_0014.npz"
+    }
+  },
+  "131": {
+    "file_id": "CG10_500_048076_0039",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048076_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048076_0039.npz"
+    }
+  },
+  "132": {
+    "file_id": "CG10_500_037059_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_037059_0030.npz"
+    }
+  },
+  "133": {
+    "file_id": "CG10_500_036057_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036057_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_036057_0011.npz"
+    }
+  },
+  "134": {
+    "file_id": "CG10_500_048076_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048076_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_048076_0014.npz"
+    }
+  },
+  "135": {
+    "file_id": "CG10_500_038069_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038069_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038069_0019.npz"
+    }
+  },
+  "136": {
+    "file_id": "CG10_500_038058_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_038058_0020.npz"
+    }
+  },
+  "137": {
+    "file_id": "CG10_500_048069_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048069_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_048069_0004.npz"
+    }
+  },
+  "138": {
+    "file_id": "CG10_500_040063_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040063_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_040063_0042.npz"
+    }
+  },
+  "139": {
+    "file_id": "CG10_500_049072_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049072_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_049072_0010.npz"
+    }
+  },
+  "140": {
+    "file_id": "CG10_500_042067_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042067_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_042067_0030.npz"
+    }
+  },
+  "141": {
+    "file_id": "CG10_500_042071_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042071_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_042071_0029.npz"
+    }
+  },
+  "142": {
+    "file_id": "CG10_500_044070_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044070_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_044070_0009.npz"
+    }
+  },
+  "143": {
+    "file_id": "CG10_500_038071_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_038071_0042.npz"
+    }
+  },
+  "144": {
+    "file_id": "CG10_500_037059_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_037059_0029.npz"
+    }
+  },
+  "145": {
+    "file_id": "CG10_500_035060_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_035060_0001.npz"
+    }
+  },
+  "146": {
+    "file_id": "CG10_500_043074_0012",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0012.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_043074_0012.npz"
+    }
+  },
+  "147": {
+    "file_id": "BK39_500_018031_0088",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018031_0088.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/BK39_500_018031_0088.npz"
+    }
+  },
+  "148": {
+    "file_id": "CG10_500_037057_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037057_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_037057_0020.npz"
+    }
+  },
+  "149": {
+    "file_id": "BK39_500_015031_0048",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015031_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_015031_0048.npz"
+    }
+  },
+  "150": {
+    "file_id": "BK39_500_012032_0078",
+    "image": {
+      "image_path": "data/images/val/BK39_500_012032_0078.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_012032_0078.npz"
+    }
+  },
+  "151": {
+    "file_id": "CG10_500_040072_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040072_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/CG10_500_040072_0008.npz"
+    }
+  },
+  "152": {
+    "file_id": "CG10_500_041071_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041071_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_041071_0010.npz"
+    }
+  },
+  "153": {
+    "file_id": "CG10_500_041068_0070",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041068_0070.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_041068_0070.npz"
+    }
+  },
+  "154": {
+    "file_id": "CG10_500_034060_0026",
+    "image": {
+      "image_path": "data/images/val/CG10_500_034060_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 19,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_034060_0026.npz"
+    }
+  },
+  "155": {
+    "file_id": "CG10_500_042071_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042071_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/CG10_500_042071_0037.npz"
+    }
+  },
+  "156": {
+    "file_id": "CG10_500_045072_0052",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045072_0052.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_045072_0052.npz"
+    }
+  },
+  "157": {
+    "file_id": "CG10_500_045070_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045070_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 39,
+      "graph_path": "data/graphs/val/CG10_500_045070_0004.npz"
+    }
+  },
+  "158": {
+    "file_id": "CG10_500_035058_0003",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035058_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 25,
+      "num_edges": 51,
+      "graph_path": "data/graphs/val/CG10_500_035058_0003.npz"
+    }
+  },
+  "159": {
+    "file_id": "CG10_500_048075_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048075_0002.npz"
+    }
+  },
+  "160": {
+    "file_id": "BK39_500_018026_0038",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018026_0038.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/BK39_500_018026_0038.npz"
+    }
+  },
+  "161": {
+    "file_id": "CG10_500_042059_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042059_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_042059_0008.npz"
+    }
+  },
+  "162": {
+    "file_id": "BK39_500_012028_0004",
+    "image": {
+      "image_path": "data/images/val/BK39_500_012028_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/BK39_500_012028_0004.npz"
+    }
+  },
+  "163": {
+    "file_id": "CG10_500_048066_0046",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048066_0046.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 39,
+      "graph_path": "data/graphs/val/CG10_500_048066_0046.npz"
+    }
+  },
+  "164": {
+    "file_id": "CG10_500_036058_0027",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036058_0027.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_036058_0027.npz"
+    }
+  },
+  "165": {
+    "file_id": "CG10_500_036059_0023",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036059_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_036059_0023.npz"
+    }
+  },
+  "166": {
+    "file_id": "CG10_500_038059_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_038059_0037.npz"
+    }
+  },
+  "167": {
+    "file_id": "CG10_500_035062_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035062_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_035062_0011.npz"
+    }
+  },
+  "168": {
+    "file_id": "CG10_500_038070_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038070_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_038070_0013.npz"
+    }
+  },
+  "169": {
+    "file_id": "BK39_500_018029_0071",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018029_0071.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_018029_0071.npz"
+    }
+  },
+  "170": {
+    "file_id": "CG10_500_041070_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041070_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 24,
+      "num_edges": 49,
+      "graph_path": "data/graphs/val/CG10_500_041070_0036.npz"
+    }
+  },
+  "171": {
+    "file_id": "CG10_500_048075_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_048075_0033.npz"
+    }
+  },
+  "172": {
+    "file_id": "CG10_500_038057_0051",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0051.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_038057_0051.npz"
+    }
+  },
+  "173": {
+    "file_id": "CG10_500_044068_0055",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0055.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_044068_0055.npz"
+    }
+  },
+  "174": {
+    "file_id": "BK39_500_013029_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013029_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_013029_0061.npz"
+    }
+  },
+  "175": {
+    "file_id": "CG10_500_038059_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_038059_0006.npz"
+    }
+  },
+  "176": {
+    "file_id": "CG10_500_043073_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043073_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_043073_0005.npz"
+    }
+  },
+  "177": {
+    "file_id": "CG10_500_042073_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_042073_0041.npz"
+    }
+  },
+  "178": {
+    "file_id": "CG10_500_044068_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_044068_0006.npz"
+    }
+  },
+  "179": {
+    "file_id": "CG10_500_035060_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 39,
+      "graph_path": "data/graphs/val/CG10_500_035060_0004.npz"
+    }
+  },
+  "180": {
+    "file_id": "CG10_500_040072_0053",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040072_0053.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_040072_0053.npz"
+    }
+  },
+  "181": {
+    "file_id": "CG10_500_036059_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036059_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_036059_0016.npz"
+    }
+  },
+  "182": {
+    "file_id": "BK39_500_015028_0025",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015028_0025.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/BK39_500_015028_0025.npz"
+    }
+  },
+  "183": {
+    "file_id": "CG10_500_035060_0012",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0012.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_035060_0012.npz"
+    }
+  },
+  "184": {
+    "file_id": "CG10_500_038057_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_038057_0036.npz"
+    }
+  },
+  "185": {
+    "file_id": "CG10_500_035064_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035064_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_035064_0028.npz"
+    }
+  },
+  "186": {
+    "file_id": "CG10_500_040068_0061",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040068_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_040068_0061.npz"
+    }
+  },
+  "187": {
+    "file_id": "CG10_500_043070_0044",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043070_0044.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_043070_0044.npz"
+    }
+  },
+  "188": {
+    "file_id": "CG10_500_041069_0069",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041069_0069.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_041069_0069.npz"
+    }
+  },
+  "189": {
+    "file_id": "CG10_500_043074_0031",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043074_0031.npz"
+    }
+  },
+  "190": {
+    "file_id": "CG10_500_036057_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036057_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_036057_0006.npz"
+    }
+  },
+  "191": {
+    "file_id": "CG10_500_042065_0003",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042065_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_042065_0003.npz"
+    }
+  },
+  "192": {
+    "file_id": "BK39_500_017031_0003",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017031_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_017031_0003.npz"
+    }
+  },
+  "193": {
+    "file_id": "CG10_500_040068_0051",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040068_0051.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_040068_0051.npz"
+    }
+  },
+  "194": {
+    "file_id": "CG10_500_048075_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048075_0030.npz"
+    }
+  },
+  "195": {
+    "file_id": "CG10_500_041065_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041065_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_041065_0002.npz"
+    }
+  },
+  "196": {
+    "file_id": "CG10_500_038071_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_038071_0010.npz"
+    }
+  },
+  "197": {
+    "file_id": "CG10_500_040068_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040068_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_040068_0024.npz"
+    }
+  },
+  "198": {
+    "file_id": "BK39_500_015034_0007",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015034_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 24,
+      "num_edges": 41,
+      "graph_path": "data/graphs/val/BK39_500_015034_0007.npz"
+    }
+  },
+  "199": {
+    "file_id": "CG10_500_041071_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041071_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_041071_0006.npz"
+    }
+  },
+  "200": {
+    "file_id": "CG10_500_043075_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043075_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043075_0008.npz"
+    }
+  },
+  "201": {
+    "file_id": "CG10_500_038059_0054",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0054.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_038059_0054.npz"
+    }
+  },
+  "202": {
+    "file_id": "CG10_500_045075_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045075_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_045075_0010.npz"
+    }
+  },
+  "203": {
+    "file_id": "BK39_500_014033_0005",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014033_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/BK39_500_014033_0005.npz"
+    }
+  },
+  "204": {
+    "file_id": "CG10_500_038071_0048",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038071_0048.npz"
+    }
+  },
+  "205": {
+    "file_id": "CG10_500_048077_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048077_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_048077_0037.npz"
+    }
+  },
+  "206": {
+    "file_id": "CG10_500_042068_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042068_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042068_0001.npz"
+    }
+  },
+  "207": {
+    "file_id": "CG10_500_038067_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038067_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/CG10_500_038067_0020.npz"
+    }
+  },
+  "208": {
+    "file_id": "BK39_500_014027_0003",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014027_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/BK39_500_014027_0003.npz"
+    }
+  },
+  "209": {
+    "file_id": "CG10_500_042073_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042073_0019.npz"
+    }
+  },
+  "210": {
+    "file_id": "CG10_500_048073_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048073_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_048073_0021.npz"
+    }
+  },
+  "211": {
+    "file_id": "CG10_500_037058_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037058_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_037058_0030.npz"
+    }
+  },
+  "212": {
+    "file_id": "BK39_500_015033_0010",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015033_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 19,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/BK39_500_015033_0010.npz"
+    }
+  },
+  "213": {
+    "file_id": "CG10_500_035059_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035059_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_035059_0009.npz"
+    }
+  },
+  "214": {
+    "file_id": "CG10_500_043069_0048",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043069_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_043069_0048.npz"
+    }
+  },
+  "215": {
+    "file_id": "BK39_500_014034_0046",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014034_0046.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_014034_0046.npz"
+    }
+  },
+  "216": {
+    "file_id": "BK39_500_018027_0074",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0074.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 14,
+      "graph_path": "data/graphs/val/BK39_500_018027_0074.npz"
+    }
+  },
+  "217": {
+    "file_id": "CG10_500_039067_0046",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039067_0046.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_039067_0046.npz"
+    }
+  },
+  "218": {
+    "file_id": "CG10_500_039056_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039056_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/CG10_500_039056_0024.npz"
+    }
+  },
+  "219": {
+    "file_id": "CG10_500_043074_0043",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0043.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_043074_0043.npz"
+    }
+  },
+  "220": {
+    "file_id": "CG10_500_038056_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038056_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_038056_0008.npz"
+    }
+  },
+  "221": {
+    "file_id": "BK39_500_013028_0061",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013028_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_013028_0061.npz"
+    }
+  },
+  "222": {
+    "file_id": "CG10_500_043066_0003",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043066_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_043066_0003.npz"
+    }
+  },
+  "223": {
+    "file_id": "CG10_500_049071_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049071_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_049071_0006.npz"
+    }
+  },
+  "224": {
+    "file_id": "CG10_500_037071_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037071_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 14,
+      "graph_path": "data/graphs/val/CG10_500_037071_0015.npz"
+    }
+  },
+  "225": {
+    "file_id": "BK39_500_017028_0053",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017028_0053.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_017028_0053.npz"
+    }
+  },
+  "226": {
+    "file_id": "CG10_500_048076_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048076_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_048076_0029.npz"
+    }
+  },
+  "227": {
+    "file_id": "BK39_500_017029_0005",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017029_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_017029_0005.npz"
+    }
+  },
+  "228": {
+    "file_id": "CG10_500_038071_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038071_0041.npz"
+    }
+  },
+  "229": {
+    "file_id": "CG10_500_035061_0048",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035061_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_035061_0048.npz"
+    }
+  },
+  "230": {
+    "file_id": "CG10_500_048076_0025",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048076_0025.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_048076_0025.npz"
+    }
+  },
+  "231": {
+    "file_id": "BK39_500_018031_0036",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018031_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/BK39_500_018031_0036.npz"
+    }
+  },
+  "232": {
+    "file_id": "CG10_500_042073_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042073_0006.npz"
+    }
+  },
+  "233": {
+    "file_id": "BK39_500_016026_0065",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016026_0065.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/BK39_500_016026_0065.npz"
+    }
+  },
+  "234": {
+    "file_id": "CG10_500_041068_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041068_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_041068_0041.npz"
+    }
+  },
+  "235": {
+    "file_id": "BK39_500_016029_0031",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016029_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_016029_0031.npz"
+    }
+  },
+  "236": {
+    "file_id": "CG10_500_047072_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_047072_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_047072_0006.npz"
+    }
+  },
+  "237": {
+    "file_id": "BK39_500_017026_0017",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017026_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/BK39_500_017026_0017.npz"
+    }
+  },
+  "238": {
+    "file_id": "BK39_500_013027_0035",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013027_0035.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_013027_0035.npz"
+    }
+  },
+  "239": {
+    "file_id": "BK39_500_018028_0011",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018028_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/BK39_500_018028_0011.npz"
+    }
+  },
+  "240": {
+    "file_id": "CG10_500_044067_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044067_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_044067_0001.npz"
+    }
+  },
+  "241": {
+    "file_id": "BK39_500_013030_0053",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013030_0053.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/BK39_500_013030_0053.npz"
+    }
+  },
+  "242": {
+    "file_id": "BK39_500_014026_0019",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014026_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/BK39_500_014026_0019.npz"
+    }
+  },
+  "243": {
+    "file_id": "CG10_500_045075_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045075_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/CG10_500_045075_0001.npz"
+    }
+  },
+  "244": {
+    "file_id": "CG10_500_033058_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033058_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_033058_0007.npz"
+    }
+  },
+  "245": {
+    "file_id": "CG10_500_038069_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038069_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038069_0007.npz"
+    }
+  },
+  "246": {
+    "file_id": "BK39_500_014028_0068",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014028_0068.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/BK39_500_014028_0068.npz"
+    }
+  },
+  "247": {
+    "file_id": "CG10_500_048075_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_048075_0024.npz"
+    }
+  },
+  "248": {
+    "file_id": "CG10_500_048075_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_048075_0013.npz"
+    }
+  },
+  "249": {
+    "file_id": "CG10_500_041067_0057",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0057.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_041067_0057.npz"
+    }
+  },
+  "250": {
+    "file_id": "CG10_500_047072_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_047072_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_047072_0029.npz"
+    }
+  },
+  "251": {
+    "file_id": "CG10_500_035061_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035061_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/CG10_500_035061_0024.npz"
+    }
+  },
+  "252": {
+    "file_id": "CG10_500_040061_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040061_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_040061_0030.npz"
+    }
+  },
+  "253": {
+    "file_id": "CG10_500_049072_0049",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049072_0049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_049072_0049.npz"
+    }
+  },
+  "254": {
+    "file_id": "CG10_500_043073_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043073_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043073_0014.npz"
+    }
+  },
+  "255": {
+    "file_id": "CG10_500_038059_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_038059_0016.npz"
+    }
+  },
+  "256": {
+    "file_id": "CG10_500_038057_0061",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_038057_0061.npz"
+    }
+  },
+  "257": {
+    "file_id": "CG10_500_041059_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041059_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_041059_0007.npz"
+    }
+  },
+  "258": {
+    "file_id": "BK39_500_018029_0048",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018029_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/BK39_500_018029_0048.npz"
+    }
+  },
+  "259": {
+    "file_id": "CG10_500_038058_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_038058_0002.npz"
+    }
+  },
+  "260": {
+    "file_id": "CG10_500_044073_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044073_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_044073_0030.npz"
+    }
+  },
+  "261": {
+    "file_id": "CG10_500_035062_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035062_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_035062_0032.npz"
+    }
+  },
+  "262": {
+    "file_id": "CG10_500_044068_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_044068_0019.npz"
+    }
+  },
+  "263": {
+    "file_id": "BK39_500_017032_0013",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017032_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_017032_0013.npz"
+    }
+  },
+  "264": {
+    "file_id": "CG10_500_041065_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041065_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/CG10_500_041065_0032.npz"
+    }
+  },
+  "265": {
+    "file_id": "BK39_500_016031_0039",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016031_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/BK39_500_016031_0039.npz"
+    }
+  },
+  "266": {
+    "file_id": "CG10_500_040066_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040066_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_040066_0024.npz"
+    }
+  },
+  "267": {
+    "file_id": "BK39_500_015027_0033",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015027_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/BK39_500_015027_0033.npz"
+    }
+  },
+  "268": {
+    "file_id": "BK39_500_013029_0021",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013029_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_013029_0021.npz"
+    }
+  },
+  "269": {
+    "file_id": "CG10_500_042073_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_042073_0008.npz"
+    }
+  },
+  "270": {
+    "file_id": "CG10_500_043069_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043069_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043069_0040.npz"
+    }
+  },
+  "271": {
+    "file_id": "CG10_500_039067_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039067_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_039067_0005.npz"
+    }
+  },
+  "272": {
+    "file_id": "BK39_500_013029_0020",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013029_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 28,
+      "num_edges": 52,
+      "graph_path": "data/graphs/val/BK39_500_013029_0020.npz"
+    }
+  },
+  "273": {
+    "file_id": "CG10_500_049064_0048",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049064_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 22,
+      "graph_path": "data/graphs/val/CG10_500_049064_0048.npz"
+    }
+  },
+  "274": {
+    "file_id": "CG10_500_045070_0027",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045070_0027.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_045070_0027.npz"
+    }
+  },
+  "275": {
+    "file_id": "CG10_500_041067_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041067_0021.npz"
+    }
+  },
+  "276": {
+    "file_id": "CG10_500_048074_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048074_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_048074_0011.npz"
+    }
+  },
+  "277": {
+    "file_id": "CG10_500_039069_0050",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039069_0050.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_039069_0050.npz"
+    }
+  },
+  "278": {
+    "file_id": "CG10_500_038059_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_038059_0005.npz"
+    }
+  },
+  "279": {
+    "file_id": "CG10_500_039063_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039063_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_039063_0001.npz"
+    }
+  },
+  "280": {
+    "file_id": "BK39_500_013029_0065",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013029_0065.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_013029_0065.npz"
+    }
+  },
+  "281": {
+    "file_id": "CG10_500_048067_0057",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048067_0057.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_048067_0057.npz"
+    }
+  },
+  "282": {
+    "file_id": "CG10_500_040069_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040069_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_040069_0006.npz"
+    }
+  },
+  "283": {
+    "file_id": "CG10_500_036057_0023",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036057_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_036057_0023.npz"
+    }
+  },
+  "284": {
+    "file_id": "CG10_500_048077_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048077_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_048077_0009.npz"
+    }
+  },
+  "285": {
+    "file_id": "CG10_500_041070_0038",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041070_0038.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_041070_0038.npz"
+    }
+  },
+  "286": {
+    "file_id": "BK39_500_018031_0073",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018031_0073.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 38,
+      "graph_path": "data/graphs/val/BK39_500_018031_0073.npz"
+    }
+  },
+  "287": {
+    "file_id": "CG10_500_043071_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043071_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_043071_0007.npz"
+    }
+  },
+  "288": {
+    "file_id": "CG10_500_042070_0023",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042070_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_042070_0023.npz"
+    }
+  },
+  "289": {
+    "file_id": "CG10_500_042069_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042069_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042069_0024.npz"
+    }
+  },
+  "290": {
+    "file_id": "CG10_500_040059_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040059_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_040059_0040.npz"
+    }
+  },
+  "291": {
+    "file_id": "CG10_500_039064_0007",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039064_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 16,
+      "graph_path": "data/graphs/val/CG10_500_039064_0007.npz"
+    }
+  },
+  "292": {
+    "file_id": "CG10_500_037058_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037058_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_037058_0011.npz"
+    }
+  },
+  "293": {
+    "file_id": "CG10_500_038069_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038069_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_038069_0016.npz"
+    }
+  },
+  "294": {
+    "file_id": "BJ39_500_100049_0028",
+    "image": {
+      "image_path": "data/images/val/BJ39_500_100049_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BJ39_500_100049_0028.npz"
+    }
+  },
+  "295": {
+    "file_id": "CG10_500_041069_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041069_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_041069_0009.npz"
+    }
+  },
+  "296": {
+    "file_id": "CG10_500_039057_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039057_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_039057_0037.npz"
+    }
+  },
+  "297": {
+    "file_id": "CG10_500_042074_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042074_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_042074_0036.npz"
+    }
+  },
+  "298": {
+    "file_id": "BK39_500_013027_0014",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013027_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/BK39_500_013027_0014.npz"
+    }
+  },
+  "299": {
+    "file_id": "CG10_500_048064_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048064_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_048064_0005.npz"
+    }
+  },
+  "300": {
+    "file_id": "CG10_500_039063_0017",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039063_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 23,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_039063_0017.npz"
+    }
+  },
+  "301": {
+    "file_id": "CG10_500_040059_0046",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040059_0046.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_040059_0046.npz"
+    }
+  },
+  "302": {
+    "file_id": "BK39_500_018029_0010",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018029_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_018029_0010.npz"
+    }
+  },
+  "303": {
+    "file_id": "BK39_500_014031_0059",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014031_0059.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_014031_0059.npz"
+    }
+  },
+  "304": {
+    "file_id": "CG10_500_040059_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040059_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_040059_0004.npz"
+    }
+  },
+  "305": {
+    "file_id": "CG10_500_041067_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 14,
+      "graph_path": "data/graphs/val/CG10_500_041067_0009.npz"
+    }
+  },
+  "306": {
+    "file_id": "CG10_500_042070_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042070_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_042070_0004.npz"
+    }
+  },
+  "307": {
+    "file_id": "CG10_500_038058_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038058_0021.npz"
+    }
+  },
+  "308": {
+    "file_id": "CG10_500_039070_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039070_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_039070_0030.npz"
+    }
+  },
+  "309": {
+    "file_id": "CG10_500_039073_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039073_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_039073_0009.npz"
+    }
+  },
+  "310": {
+    "file_id": "BK39_500_014032_0013",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014032_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_014032_0013.npz"
+    }
+  },
+  "311": {
+    "file_id": "BK39_500_018030_0019",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018030_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/BK39_500_018030_0019.npz"
+    }
+  },
+  "312": {
+    "file_id": "BK39_500_017026_0019",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017026_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/BK39_500_017026_0019.npz"
+    }
+  },
+  "313": {
+    "file_id": "CG10_500_039058_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039058_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_039058_0010.npz"
+    }
+  },
+  "314": {
+    "file_id": "CG10_500_033059_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033059_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_033059_0024.npz"
+    }
+  },
+  "315": {
+    "file_id": "BK39_500_017025_0063",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017025_0063.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/BK39_500_017025_0063.npz"
+    }
+  },
+  "316": {
+    "file_id": "CG10_500_048077_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048077_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_048077_0008.npz"
+    }
+  },
+  "317": {
+    "file_id": "BK39_500_015026_0025",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015026_0025.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_015026_0025.npz"
+    }
+  },
+  "318": {
+    "file_id": "CG10_500_042069_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042069_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_042069_0037.npz"
+    }
+  },
+  "319": {
+    "file_id": "CG10_500_038057_0017",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_038057_0017.npz"
+    }
+  },
+  "320": {
+    "file_id": "CG10_500_038059_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038059_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038059_0004.npz"
+    }
+  },
+  "321": {
+    "file_id": "CG10_500_036057_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036057_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_036057_0015.npz"
+    }
+  },
+  "322": {
+    "file_id": "CG10_500_034059_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_034059_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_034059_0008.npz"
+    }
+  },
+  "323": {
+    "file_id": "CG10_500_036063_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036063_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_036063_0005.npz"
+    }
+  },
+  "324": {
+    "file_id": "BK39_500_014034_0067",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014034_0067.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_014034_0067.npz"
+    }
+  },
+  "325": {
+    "file_id": "CG10_500_040070_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040070_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_040070_0005.npz"
+    }
+  },
+  "326": {
+    "file_id": "CG10_500_036058_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036058_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_036058_0006.npz"
+    }
+  },
+  "327": {
+    "file_id": "CG10_500_034060_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_034060_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_034060_0008.npz"
+    }
+  },
+  "328": {
+    "file_id": "CG10_500_041070_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041070_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041070_0008.npz"
+    }
+  },
+  "329": {
+    "file_id": "CG10_500_042061_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042061_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042061_0030.npz"
+    }
+  },
+  "330": {
+    "file_id": "CG10_500_036059_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036059_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 11,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_036059_0006.npz"
+    }
+  },
+  "331": {
+    "file_id": "CG10_500_035060_0025",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0025.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_035060_0025.npz"
+    }
+  },
+  "332": {
+    "file_id": "CG10_500_035062_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035062_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_035062_0015.npz"
+    }
+  },
+  "333": {
+    "file_id": "CG10_500_040072_0041",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040072_0041.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_040072_0041.npz"
+    }
+  },
+  "334": {
+    "file_id": "CG10_500_041068_0057",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041068_0057.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041068_0057.npz"
+    }
+  },
+  "335": {
+    "file_id": "BK39_500_017027_0070",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017027_0070.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/BK39_500_017027_0070.npz"
+    }
+  },
+  "336": {
+    "file_id": "CG10_500_040071_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040071_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_040071_0032.npz"
+    }
+  },
+  "337": {
+    "file_id": "CG10_500_044073_0012",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044073_0012.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_044073_0012.npz"
+    }
+  },
+  "338": {
+    "file_id": "CG10_500_040064_0031",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040064_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_040064_0031.npz"
+    }
+  },
+  "339": {
+    "file_id": "CG10_500_041072_0045",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041072_0045.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041072_0045.npz"
+    }
+  },
+  "340": {
+    "file_id": "CG10_500_043074_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043074_0013.npz"
+    }
+  },
+  "341": {
+    "file_id": "CG10_500_040070_0060",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040070_0060.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 19,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_040070_0060.npz"
+    }
+  },
+  "342": {
+    "file_id": "CG10_500_038057_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_038057_0005.npz"
+    }
+  },
+  "343": {
+    "file_id": "CG10_500_043070_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043070_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_043070_0011.npz"
+    }
+  },
+  "344": {
+    "file_id": "CG10_500_042072_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_042072_0013.npz"
+    }
+  },
+  "345": {
+    "file_id": "CG10_500_048063_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048063_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 30,
+      "graph_path": "data/graphs/val/CG10_500_048063_0005.npz"
+    }
+  },
+  "346": {
+    "file_id": "CG10_500_041066_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041066_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_041066_0032.npz"
+    }
+  },
+  "347": {
+    "file_id": "BK39_500_016031_0015",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016031_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_016031_0015.npz"
+    }
+  },
+  "348": {
+    "file_id": "CG10_500_041059_0044",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041059_0044.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 25,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_041059_0044.npz"
+    }
+  },
+  "349": {
+    "file_id": "BK39_500_016027_0099",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016027_0099.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/BK39_500_016027_0099.npz"
+    }
+  },
+  "350": {
+    "file_id": "CG10_500_035060_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_035060_0036.npz"
+    }
+  },
+  "351": {
+    "file_id": "CG10_500_042072_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042072_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_042072_0006.npz"
+    }
+  },
+  "352": {
+    "file_id": "CG10_500_048066_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048066_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_048066_0001.npz"
+    }
+  },
+  "353": {
+    "file_id": "CG10_500_041066_0031",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041066_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/CG10_500_041066_0031.npz"
+    }
+  },
+  "354": {
+    "file_id": "CG10_500_042059_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042059_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/CG10_500_042059_0024.npz"
+    }
+  },
+  "355": {
+    "file_id": "BK39_500_017030_0039",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017030_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/BK39_500_017030_0039.npz"
+    }
+  },
+  "356": {
+    "file_id": "BK39_500_018031_0058",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018031_0058.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/BK39_500_018031_0058.npz"
+    }
+  },
+  "357": {
+    "file_id": "CG10_500_040063_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040063_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_040063_0040.npz"
+    }
+  },
+  "358": {
+    "file_id": "BK39_500_016024_0018",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016024_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_016024_0018.npz"
+    }
+  },
+  "359": {
+    "file_id": "BJ39_500_100048_0049",
+    "image": {
+      "image_path": "data/images/val/BJ39_500_100048_0049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 14,
+      "graph_path": "data/graphs/val/BJ39_500_100048_0049.npz"
+    }
+  },
+  "360": {
+    "file_id": "BK39_500_017024_0007",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017024_0007.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/BK39_500_017024_0007.npz"
+    }
+  },
+  "361": {
+    "file_id": "CG10_500_035060_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035060_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_035060_0006.npz"
+    }
+  },
+  "362": {
+    "file_id": "CG10_500_039068_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039068_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_039068_0021.npz"
+    }
+  },
+  "363": {
+    "file_id": "CG10_500_041071_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041071_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_041071_0030.npz"
+    }
+  },
+  "364": {
+    "file_id": "CG10_500_039058_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039058_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/CG10_500_039058_0016.npz"
+    }
+  },
+  "365": {
+    "file_id": "BK39_500_018027_0017",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/BK39_500_018027_0017.npz"
+    }
+  },
+  "366": {
+    "file_id": "CG10_500_042074_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042074_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_042074_0033.npz"
+    }
+  },
+  "367": {
+    "file_id": "CG10_500_044068_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_044068_0008.npz"
+    }
+  },
+  "368": {
+    "file_id": "CG10_500_039073_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039073_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_039073_0004.npz"
+    }
+  },
+  "369": {
+    "file_id": "CG10_500_041059_0017",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041059_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_041059_0017.npz"
+    }
+  },
+  "370": {
+    "file_id": "BK39_500_014033_0073",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014033_0073.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/BK39_500_014033_0073.npz"
+    }
+  },
+  "371": {
+    "file_id": "CG10_500_043074_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_043074_0006.npz"
+    }
+  },
+  "372": {
+    "file_id": "CG10_500_048074_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048074_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_048074_0016.npz"
+    }
+  },
+  "373": {
+    "file_id": "CG10_500_049064_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049064_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_049064_0029.npz"
+    }
+  },
+  "374": {
+    "file_id": "BK39_500_014027_0080",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014027_0080.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_014027_0080.npz"
+    }
+  },
+  "375": {
+    "file_id": "BK39_500_013028_0042",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013028_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/BK39_500_013028_0042.npz"
+    }
+  },
+  "376": {
+    "file_id": "BK39_500_017024_0005",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017024_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/BK39_500_017024_0005.npz"
+    }
+  },
+  "377": {
+    "file_id": "BK39_500_018028_0010",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018028_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/BK39_500_018028_0010.npz"
+    }
+  },
+  "378": {
+    "file_id": "CG10_500_048073_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048073_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_048073_0019.npz"
+    }
+  },
+  "379": {
+    "file_id": "CG10_500_037071_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037071_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_037071_0010.npz"
+    }
+  },
+  "380": {
+    "file_id": "CG10_500_034059_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_034059_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_034059_0010.npz"
+    }
+  },
+  "381": {
+    "file_id": "CG10_500_048068_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048068_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/CG10_500_048068_0024.npz"
+    }
+  },
+  "382": {
+    "file_id": "CG10_500_038058_0043",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0043.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/CG10_500_038058_0043.npz"
+    }
+  },
+  "383": {
+    "file_id": "CG10_500_047072_0030",
+    "image": {
+      "image_path": "data/images/val/CG10_500_047072_0030.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_047072_0030.npz"
+    }
+  },
+  "384": {
+    "file_id": "CG10_500_044068_0047",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044068_0047.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_044068_0047.npz"
+    }
+  },
+  "385": {
+    "file_id": "CG10_500_041073_0066",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041073_0066.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041073_0066.npz"
+    }
+  },
+  "386": {
+    "file_id": "CG10_500_036061_0001",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036061_0001.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_036061_0001.npz"
+    }
+  },
+  "387": {
+    "file_id": "BK39_500_015027_0048",
+    "image": {
+      "image_path": "data/images/val/BK39_500_015027_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/BK39_500_015027_0048.npz"
+    }
+  },
+  "388": {
+    "file_id": "BK39_500_017029_0023",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017029_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_017029_0023.npz"
+    }
+  },
+  "389": {
+    "file_id": "CG10_500_041068_0034",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041068_0034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 21,
+      "num_edges": 41,
+      "graph_path": "data/graphs/val/CG10_500_041068_0034.npz"
+    }
+  },
+  "390": {
+    "file_id": "CG10_500_041073_0035",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041073_0035.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 25,
+      "graph_path": "data/graphs/val/CG10_500_041073_0035.npz"
+    }
+  },
+  "391": {
+    "file_id": "CG10_500_048067_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048067_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_048067_0024.npz"
+    }
+  },
+  "392": {
+    "file_id": "CG10_500_040070_0049",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040070_0049.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_040070_0049.npz"
+    }
+  },
+  "393": {
+    "file_id": "CG10_500_045072_0021",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045072_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_045072_0021.npz"
+    }
+  },
+  "394": {
+    "file_id": "CG10_500_041066_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041066_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_041066_0033.npz"
+    }
+  },
+  "395": {
+    "file_id": "CG10_500_038057_0034",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0034.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_038057_0034.npz"
+    }
+  },
+  "396": {
+    "file_id": "CG10_500_048074_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048074_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_048074_0008.npz"
+    }
+  },
+  "397": {
+    "file_id": "CG10_500_043067_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043067_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043067_0009.npz"
+    }
+  },
+  "398": {
+    "file_id": "CG10_500_045070_0028",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045070_0028.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/CG10_500_045070_0028.npz"
+    }
+  },
+  "399": {
+    "file_id": "CG10_500_045070_0016",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045070_0016.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/CG10_500_045070_0016.npz"
+    }
+  },
+  "400": {
+    "file_id": "CG10_500_036063_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036063_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_036063_0032.npz"
+    }
+  },
+  "401": {
+    "file_id": "CG10_500_037059_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/CG10_500_037059_0004.npz"
+    }
+  },
+  "402": {
+    "file_id": "BJ39_500_098051_0020",
+    "image": {
+      "image_path": "data/images/val/BJ39_500_098051_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 13,
+      "graph_path": "data/graphs/val/BJ39_500_098051_0020.npz"
+    }
+  },
+  "403": {
+    "file_id": "CG10_500_042071_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042071_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_042071_0004.npz"
+    }
+  },
+  "404": {
+    "file_id": "CG10_500_039070_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039070_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_039070_0010.npz"
+    }
+  },
+  "405": {
+    "file_id": "CG10_500_037058_0026",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037058_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 12,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_037058_0026.npz"
+    }
+  },
+  "406": {
+    "file_id": "CG10_500_042073_0035",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042073_0035.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_042073_0035.npz"
+    }
+  },
+  "407": {
+    "file_id": "CG10_500_043074_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043074_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_043074_0033.npz"
+    }
+  },
+  "408": {
+    "file_id": "BK39_500_017029_0067",
+    "image": {
+      "image_path": "data/images/val/BK39_500_017029_0067.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/BK39_500_017029_0067.npz"
+    }
+  },
+  "409": {
+    "file_id": "CG10_500_048067_0013",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048067_0013.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_048067_0013.npz"
+    }
+  },
+  "410": {
+    "file_id": "CG10_500_040060_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040060_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 27,
+      "graph_path": "data/graphs/val/CG10_500_040060_0004.npz"
+    }
+  },
+  "411": {
+    "file_id": "BK39_500_018026_0048",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018026_0048.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 8,
+      "graph_path": "data/graphs/val/BK39_500_018026_0048.npz"
+    }
+  },
+  "412": {
+    "file_id": "BK39_500_016029_0040",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016029_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 31,
+      "graph_path": "data/graphs/val/BK39_500_016029_0040.npz"
+    }
+  },
+  "413": {
+    "file_id": "CG10_500_042071_0033",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042071_0033.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/CG10_500_042071_0033.npz"
+    }
+  },
+  "414": {
+    "file_id": "CG10_500_037057_0035",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037057_0035.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_037057_0035.npz"
+    }
+  },
+  "415": {
+    "file_id": "CG10_500_039069_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039069_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_039069_0024.npz"
+    }
+  },
+  "416": {
+    "file_id": "CG10_500_038057_0056",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038057_0056.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_038057_0056.npz"
+    }
+  },
+  "417": {
+    "file_id": "CG10_500_039070_0042",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039070_0042.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 33,
+      "graph_path": "data/graphs/val/CG10_500_039070_0042.npz"
+    }
+  },
+  "418": {
+    "file_id": "CG10_500_037059_0053",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0053.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_037059_0053.npz"
+    }
+  },
+  "419": {
+    "file_id": "CG10_500_041073_0011",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041073_0011.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_041073_0011.npz"
+    }
+  },
+  "420": {
+    "file_id": "CG10_500_037058_0023",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037058_0023.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_037058_0023.npz"
+    }
+  },
+  "421": {
+    "file_id": "BK39_500_016029_0021",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016029_0021.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/BK39_500_016029_0021.npz"
+    }
+  },
+  "422": {
+    "file_id": "CG10_500_038056_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038056_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_038056_0020.npz"
+    }
+  },
+  "423": {
+    "file_id": "CG10_500_044066_0009",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044066_0009.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_044066_0009.npz"
+    }
+  },
+  "424": {
+    "file_id": "CG10_500_038058_0018",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_038058_0018.npz"
+    }
+  },
+  "425": {
+    "file_id": "BK39_500_014033_0038",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014033_0038.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_014033_0038.npz"
+    }
+  },
+  "426": {
+    "file_id": "CG10_500_040067_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040067_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 17,
+      "num_edges": 35,
+      "graph_path": "data/graphs/val/CG10_500_040067_0036.npz"
+    }
+  },
+  "427": {
+    "file_id": "CG10_500_038071_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038071_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038071_0019.npz"
+    }
+  },
+  "428": {
+    "file_id": "BK39_500_018027_0058",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0058.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_018027_0058.npz"
+    }
+  },
+  "429": {
+    "file_id": "CG10_500_042069_0027",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042069_0027.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_042069_0027.npz"
+    }
+  },
+  "430": {
+    "file_id": "CG10_500_042061_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042061_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/CG10_500_042061_0004.npz"
+    }
+  },
+  "431": {
+    "file_id": "BJ39_500_099049_0005",
+    "image": {
+      "image_path": "data/images/val/BJ39_500_099049_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 24,
+      "num_edges": 40,
+      "graph_path": "data/graphs/val/BJ39_500_099049_0005.npz"
+    }
+  },
+  "432": {
+    "file_id": "CG10_500_040069_0024",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040069_0024.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_040069_0024.npz"
+    }
+  },
+  "433": {
+    "file_id": "BK39_500_014027_0052",
+    "image": {
+      "image_path": "data/images/val/BK39_500_014027_0052.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 15,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/BK39_500_014027_0052.npz"
+    }
+  },
+  "434": {
+    "file_id": "CG10_500_035061_0039",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035061_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_035061_0039.npz"
+    }
+  },
+  "435": {
+    "file_id": "BK39_500_018026_0026",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018026_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/BK39_500_018026_0026.npz"
+    }
+  },
+  "436": {
+    "file_id": "CG10_500_042074_0040",
+    "image": {
+      "image_path": "data/images/val/CG10_500_042074_0040.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/CG10_500_042074_0040.npz"
+    }
+  },
+  "437": {
+    "file_id": "CG10_500_039058_0022",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039058_0022.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 15,
+      "graph_path": "data/graphs/val/CG10_500_039058_0022.npz"
+    }
+  },
+  "438": {
+    "file_id": "BK39_500_016026_0083",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016026_0083.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/BK39_500_016026_0083.npz"
+    }
+  },
+  "439": {
+    "file_id": "CG10_500_041073_0036",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041073_0036.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041073_0036.npz"
+    }
+  },
+  "440": {
+    "file_id": "CG10_500_043073_0002",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043073_0002.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_043073_0002.npz"
+    }
+  },
+  "441": {
+    "file_id": "CG10_500_040069_0025",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040069_0025.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 42,
+      "graph_path": "data/graphs/val/CG10_500_040069_0025.npz"
+    }
+  },
+  "442": {
+    "file_id": "CG10_500_048066_0003",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048066_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/CG10_500_048066_0003.npz"
+    }
+  },
+  "443": {
+    "file_id": "CG10_500_038067_0008",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038067_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 18,
+      "graph_path": "data/graphs/val/CG10_500_038067_0008.npz"
+    }
+  },
+  "444": {
+    "file_id": "CG10_500_040068_0039",
+    "image": {
+      "image_path": "data/images/val/CG10_500_040068_0039.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_040068_0039.npz"
+    }
+  },
+  "445": {
+    "file_id": "CG10_500_043070_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043070_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_043070_0020.npz"
+    }
+  },
+  "446": {
+    "file_id": "BK39_500_016025_0018",
+    "image": {
+      "image_path": "data/images/val/BK39_500_016025_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 16,
+      "num_edges": 32,
+      "graph_path": "data/graphs/val/BK39_500_016025_0018.npz"
+    }
+  },
+  "447": {
+    "file_id": "BK39_500_013033_0056",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013033_0056.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 23,
+      "graph_path": "data/graphs/val/BK39_500_013033_0056.npz"
+    }
+  },
+  "448": {
+    "file_id": "CG10_500_047072_0005",
+    "image": {
+      "image_path": "data/images/val/CG10_500_047072_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_047072_0005.npz"
+    }
+  },
+  "449": {
+    "file_id": "CG10_500_043067_0018",
+    "image": {
+      "image_path": "data/images/val/CG10_500_043067_0018.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 43,
+      "graph_path": "data/graphs/val/CG10_500_043067_0018.npz"
+    }
+  },
+  "450": {
+    "file_id": "CG10_500_048075_0051",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048075_0051.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 9,
+      "graph_path": "data/graphs/val/CG10_500_048075_0051.npz"
+    }
+  },
+  "451": {
+    "file_id": "CG10_500_035063_0003",
+    "image": {
+      "image_path": "data/images/val/CG10_500_035063_0003.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 29,
+      "num_edges": 51,
+      "graph_path": "data/graphs/val/CG10_500_035063_0003.npz"
+    }
+  },
+  "452": {
+    "file_id": "CG10_500_045073_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_045073_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_045073_0037.npz"
+    }
+  },
+  "453": {
+    "file_id": "BK39_500_013029_0031",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013029_0031.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 29,
+      "graph_path": "data/graphs/val/BK39_500_013029_0031.npz"
+    }
+  },
+  "454": {
+    "file_id": "CG10_500_038058_0022",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0022.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038058_0022.npz"
+    }
+  },
+  "455": {
+    "file_id": "CG10_500_048069_0029",
+    "image": {
+      "image_path": "data/images/val/CG10_500_048069_0029.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 13,
+      "num_edges": 24,
+      "graph_path": "data/graphs/val/CG10_500_048069_0029.npz"
+    }
+  },
+  "456": {
+    "file_id": "CG10_500_039068_0050",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039068_0050.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 43,
+      "graph_path": "data/graphs/val/CG10_500_039068_0050.npz"
+    }
+  },
+  "457": {
+    "file_id": "CG10_500_041073_0026",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041073_0026.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_041073_0026.npz"
+    }
+  },
+  "458": {
+    "file_id": "CG10_500_044070_0037",
+    "image": {
+      "image_path": "data/images/val/CG10_500_044070_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_044070_0037.npz"
+    }
+  },
+  "459": {
+    "file_id": "CG10_500_038069_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038069_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038069_0014.npz"
+    }
+  },
+  "460": {
+    "file_id": "CG10_500_036059_0019",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036059_0019.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_036059_0019.npz"
+    }
+  },
+  "461": {
+    "file_id": "CG10_500_049071_0010",
+    "image": {
+      "image_path": "data/images/val/CG10_500_049071_0010.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 37,
+      "graph_path": "data/graphs/val/CG10_500_049071_0010.npz"
+    }
+  },
+  "462": {
+    "file_id": "CG10_500_036059_0015",
+    "image": {
+      "image_path": "data/images/val/CG10_500_036059_0015.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/CG10_500_036059_0015.npz"
+    }
+  },
+  "463": {
+    "file_id": "CG10_500_038058_0006",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038058_0006.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/CG10_500_038058_0006.npz"
+    }
+  },
+  "464": {
+    "file_id": "CG10_500_039068_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_039068_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 26,
+      "graph_path": "data/graphs/val/CG10_500_039068_0014.npz"
+    }
+  },
+  "465": {
+    "file_id": "BK39_500_018027_0004",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018027_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/BK39_500_018027_0004.npz"
+    }
+  },
+  "466": {
+    "file_id": "BK39_500_013028_0037",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013028_0037.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 14,
+      "num_edges": 28,
+      "graph_path": "data/graphs/val/BK39_500_013028_0037.npz"
+    }
+  },
+  "467": {
+    "file_id": "BK39_500_019028_0008",
+    "image": {
+      "image_path": "data/images/val/BK39_500_019028_0008.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 20,
+      "num_edges": 36,
+      "graph_path": "data/graphs/val/BK39_500_019028_0008.npz"
+    }
+  },
+  "468": {
+    "file_id": "CG10_500_033058_0032",
+    "image": {
+      "image_path": "data/images/val/CG10_500_033058_0032.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 9,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_033058_0032.npz"
+    }
+  },
+  "469": {
+    "file_id": "CG10_500_037059_0020",
+    "image": {
+      "image_path": "data/images/val/CG10_500_037059_0020.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 19,
+      "graph_path": "data/graphs/val/CG10_500_037059_0020.npz"
+    }
+  },
+  "470": {
+    "file_id": "CG10_500_038069_0004",
+    "image": {
+      "image_path": "data/images/val/CG10_500_038069_0004.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 20,
+      "graph_path": "data/graphs/val/CG10_500_038069_0004.npz"
+    }
+  },
+  "471": {
+    "file_id": "CG10_500_041065_0014",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041065_0014.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 22,
+      "num_edges": 44,
+      "graph_path": "data/graphs/val/CG10_500_041065_0014.npz"
+    }
+  },
+  "472": {
+    "file_id": "BK39_500_018028_0017",
+    "image": {
+      "image_path": "data/images/val/BK39_500_018028_0017.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 18,
+      "num_edges": 34,
+      "graph_path": "data/graphs/val/BK39_500_018028_0017.npz"
+    }
+  },
+  "473": {
+    "file_id": "BK39_500_019028_0005",
+    "image": {
+      "image_path": "data/images/val/BK39_500_019028_0005.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 6,
+      "num_edges": 12,
+      "graph_path": "data/graphs/val/BK39_500_019028_0005.npz"
+    }
+  },
+  "474": {
+    "file_id": "CG10_500_041067_0061",
+    "image": {
+      "image_path": "data/images/val/CG10_500_041067_0061.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 21,
+      "graph_path": "data/graphs/val/CG10_500_041067_0061.npz"
+    }
+  },
+  "475": {
+    "file_id": "BK39_500_013033_0070",
+    "image": {
+      "image_path": "data/images/val/BK39_500_013033_0070.jpg",
+      "width": 224,
+      "height": 224
+    },
+    "graph": {
+      "num_nodes": 10,
+      "num_edges": 17,
+      "graph_path": "data/graphs/val/BK39_500_013033_0070.npz"
+    }
+  }
+}

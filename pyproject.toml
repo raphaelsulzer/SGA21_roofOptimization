@@ -17,7 +17,10 @@ dependencies = [
     "tqdm",
     "rasterio",
     "networkx",
-    "pillow"
+    "pillow",
+    "matplotlib",
+    "shapely",
+    "scikit-image"
 ]
 
 

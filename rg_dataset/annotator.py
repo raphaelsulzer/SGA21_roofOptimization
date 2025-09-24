@@ -5,10 +5,13 @@ import random
 import shutil
 import subprocess
 
-from pathlib import Path
 import numpy as np
-from PIL import Image
+import networkx as nx
 
+from PIL import Image
+from pathlib import Path
+
+from .conversions import get_graph_from_verts_and_faces_file
 
 class Annotator:
     
@@ -56,7 +59,6 @@ class Annotator:
                 
         image_path = self.outpath / "data" / "images" / split
         images = os.listdir(image_path)
-        poly_id = 0
         
         ann_dict = {}
         
@@ -72,7 +74,7 @@ class Annotator:
             }
             
             this_sample["image"] = {
-                'path': os.path.join("data", "images", split, img_file),
+                'image_path': os.path.join("data", "images", split, img_file),
                 'width': width,
                 'height': height
             }
@@ -84,42 +86,33 @@ class Annotator:
                 print(f"Missing .vert or .faces file for {img_file}, skipping.")
                 continue
 
-            verts = self._load_vertices(vert_file)
-            faces = self._load_faces(face_file)
+            graph = get_graph_from_verts_and_faces_file(vert_file, face_file)
+            
+            coords = np.array(list(nx.get_node_attributes(graph,'pos').values()))
+            adj = nx.to_numpy_array(graph)
+            
+            graph_file = self.outpath / "data" / "graphs" / split / img_file.replace(".jpg", ".npz")
+            
+            os.makedirs(graph_file.parent, exist_ok=True)
+            
+            np.savez_compressed(graph_file, coords=coords, adjacency=adj)
+            
+            this_sample["graph"] = {
+                'num_nodes': graph.number_of_nodes(),
+                'num_edges': graph.number_of_edges(),
+                'graph_path': os.path.join("data", "graphs", split, img_file.replace(".jpg", ".npz")),
+            }
+            
+            ann_dict[img_id] = this_sample
 
-            for face in faces:
-                poly = []
-                for idx in face:
-                    x, y = verts[idx]
-                    poly.extend([x, y])
-                poly.extend([poly[0],poly[1]])
-                
-                
-                xs = poly[0::2]
-                ys = poly[1::2]
-                x_min, x_max = min(xs), max(xs)
-                y_min, y_max = min(ys), max(ys)
-                bbox = [x_min, y_min, x_max - x_min, y_max - y_min]
-                area = self._polygon_area(poly)
 
-                ann_dict["annotations"].append({
-                    'id': poly_id,
-                    'image_id': img_id,
-                    'segmentation': [poly],
-                    'area': area,
-                    'bbox': bbox,
-                    'category_id': 100,
-                    'iscrowd': 0,
-                })
-                poly_id += 1
-
-        out_file = self.outpath / "annotations" / "polygons" / f"annotations_{split}.json"
+        out_file = self.outpath / "annotations" / "graphs" / f"annotations_{split}.json"
         out_file.parent.mkdir(parents=True, exist_ok=True)
         
         with open(out_file, "w") as f:
             json.dump(ann_dict, f, indent=2)
 
-        print(f"Saved COCO annotations to {out_file}")
+        print(f"Saved graph annotations to {out_file}")
 
 
 

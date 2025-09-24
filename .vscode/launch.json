@@ -40,6 +40,19 @@
                 "CUDA_LAUNCH_BLOCKING": "1",
                 "TORCH_USE_CUDA_DSA": "1",
             }
+        },
+        {
+            "name": "visualize_graph_annotations",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/visualize_graph_annotations.py",
+            "console": "integratedTerminal",
+            "args": [],
+            "justMyCode": false,
+            "env": {
+                "CUDA_LAUNCH_BLOCKING": "1",
+                "TORCH_USE_CUDA_DSA": "1",
+            }
         }
     ]
 }

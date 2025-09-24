@@ -1,12 +1,12 @@
 import os
 import shutil
-
 from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
-import networkx as nx
 
 from tqdm import tqdm
+
+from .conversions import get_graph_from_verts_and_faces
 
 def get_dimensions(folder):
 
@@ -71,35 +71,6 @@ def num_vert_histogram(vert_folder, bin_size=5):
         plt.show()
     else:
         print("No .verts files found in the folder.")
-    
-
-
-def read_graph_from_verts_and_faces(verts_path, faces_path):
-    G = nx.Graph()
-    verts = []
-    with open(verts_path, 'r') as vf:
-        for i, line in enumerate(vf):
-            line = line.strip()
-            if not line:
-                continue
-            x_str, y_str = line.split(',')
-            x, y = float(x_str), float(y_str)
-            verts.append((x, y))
-            G.add_node(i, pos=(x, y))
-    with open(faces_path, 'r') as ff:
-        for line in ff:
-            line = line.strip()
-            if not line:
-                continue
-            if ',' in line:
-                indices = [int(idx) for idx in line.split(',')]
-            else:
-                indices = [int(idx) for idx in line.split()]
-            for i in range(len(indices)):
-                v1 = indices[i]
-                v2 = indices[(i + 1) % len(indices)]
-                G.add_edge(v1, v2)
-    return G
 
 
 def plot_graph_on_images(image_folder, ann_folder, output_folder, target_size=224):
@@ -124,7 +95,7 @@ def plot_graph_on_images(image_folder, ann_folder, output_folder, target_size=22
 
         # Load image and graph
         img = Image.open(img_path)
-        G = read_graph_from_verts_and_faces(verts_path, faces_path)
+        G = get_graph_from_verts_and_faces_file(verts_path, faces_path)
         
         planar = nx.is_planar(G)
         if not planar:
