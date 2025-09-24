@@ -74,7 +74,7 @@ class Annotator:
             }
             
             this_sample["image"] = {
-                'image_path': os.path.join("data", "images", split, img_file),
+                'path': os.path.join("data", "images", split, img_file),
                 'width': width,
                 'height': height
             }
@@ -100,7 +100,7 @@ class Annotator:
             this_sample["graph"] = {
                 'num_nodes': graph.number_of_nodes(),
                 'num_edges': graph.number_of_edges(),
-                'graph_path': os.path.join("data", "graphs", split, img_file.replace(".jpg", ".npz")),
+                'path': os.path.join("data", "graphs", split, img_file.replace(".jpg", ".npz")),
             }
             
             ann_dict[img_id] = this_sample
